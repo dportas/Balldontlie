@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="curso_basico_karate_2" />
+        <module name="Soderberg&amp;Partners" />
+        <module name="curso_basico_karate" />
+        <module name="BallDontLie" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BallDontLie" options="-Werror" />
+      <module name="Soderberg&amp;Partners" options="-Werror" />
+      <module name="curso_basico_karate" options="-Werror" />
+      <module name="curso_basico_karate_2" options="-Werror" />
+    </option>
+  </component>
+</project>

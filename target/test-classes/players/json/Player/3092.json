@@ -1,0 +1,18 @@
+{
+    "id": 3092,
+    "first_name": "Haywood",
+    "height_feet": 6,
+    "height_inches": 7,
+    "last_name": "Highsmith",
+    "position": "",
+    "team": {
+        "id": 16,
+        "abbreviation": "MIA",
+        "city": "Miami",
+        "conference": "East",
+        "division": "Southeast",
+        "full_name": "Miami Heat",
+        "name": "Heat"
+    },
+    "weight_pounds": 220
+}
